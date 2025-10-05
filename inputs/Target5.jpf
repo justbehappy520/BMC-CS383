@@ -1,0 +1,9 @@
+target=Target5
+
+classpath=.
+
+symbolic.method = Target5.test(sym#sym#sym)
+
+symbolic.listeners=gov.nasa.jpf.symbc.SymbolicListener
+
+symbolic.debug=true
