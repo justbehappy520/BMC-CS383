@@ -1,0 +1,5 @@
+hihi
+P1: imul
+P2: imul
+P3: 9
+P4: 10
